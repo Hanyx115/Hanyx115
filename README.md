@@ -5,7 +5,7 @@ I'm a Computer Engineering student at the **Arab Academy for Science, Technology
 
 ## 💡 Top Skills & Technologies
 - **Programming Languages:** C/C++, Python, Java, C#, JavaScript
-- **Web Development:** HTML, CSS, React.js, Node.js
+- **Web Development:** HTML, CSS, React.js, Node.js,Express.js
 - **Database Management:** SQL,NOSQL
 - **Other Tools:** MS Office Suite
 - **Areas of Interest:** AI, machine learning, web development frameworks
